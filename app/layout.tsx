@@ -16,6 +16,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Beelockchain",
   description: "Beelockchain.com",
+  icons:{
+    icon: "/Frame 4 2.svg",
+  }
 };
 
 export default function RootLayout({
